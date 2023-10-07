@@ -1,0 +1,10 @@
+	// Check for common WordPress paths
+	wordpressPaths := []string{
+		"/wp-content/",
+		"/wp-admin/",
+		"/wp-includes/",
+		"/wp-login.php",
+		"/xmlrpc.php",
+		"/readme.html",
+		// Add more paths here if needed
+	}
